@@ -38,8 +38,24 @@ nav .nav-right-section .menu-icon {
     background-size: contain;
     width: 25px;
     height: 25px;
+    margin-right: 10px;
 }
 
 nav .nav-right-section img {
     border-radius: 50px;
+}
+
+main {
+    margin-top: 150px;
+    text-align: center;
+}
+
+main .main-logo {
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-logo img {
+    width: 300px;
 }
